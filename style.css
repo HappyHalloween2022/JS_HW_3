@@ -1,0 +1,26 @@
+.conteiner {
+    font-family: 'Itim', cursive;
+    box-sizing: border-box;
+    background: #bcdce7;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.Header {
+    margin: 0;
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 130%;
+    text-align: center;
+    color: rgb(70, 35, 35);
+}
+
+.Text {
+    text-align: center;
+    color: rgb(70, 35, 35);
+
+}
